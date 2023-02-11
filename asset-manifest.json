@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.fb39175b.css",
-    "main.js": "/static/js/main.d09fceaf.js",
-    "static/js/787.5809834d.chunk.js": "/static/js/787.5809834d.chunk.js",
-    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
-    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
-    "index.html": "/index.html",
-    "main.fb39175b.css.map": "/static/css/main.fb39175b.css.map",
-    "main.d09fceaf.js.map": "/static/js/main.d09fceaf.js.map",
-    "787.5809834d.chunk.js.map": "/static/js/787.5809834d.chunk.js.map"
+    "main.css": "/Omar-Saad.github.io/static/css/main.68a9341b.css",
+    "main.js": "/Omar-Saad.github.io/static/js/main.b5f63e73.js",
+    "static/js/787.5809834d.chunk.js": "/Omar-Saad.github.io/static/js/787.5809834d.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/Omar-Saad.github.io/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/bootstrap-icons.woff2?": "/Omar-Saad.github.io/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "index.html": "/Omar-Saad.github.io/index.html",
+    "main.68a9341b.css.map": "/Omar-Saad.github.io/static/css/main.68a9341b.css.map",
+    "main.b5f63e73.js.map": "/Omar-Saad.github.io/static/js/main.b5f63e73.js.map",
+    "787.5809834d.chunk.js.map": "/Omar-Saad.github.io/static/js/787.5809834d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb39175b.css",
-    "static/js/main.d09fceaf.js"
+    "static/css/main.68a9341b.css",
+    "static/js/main.b5f63e73.js"
   ]
 }
