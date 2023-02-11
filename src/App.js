@@ -9,17 +9,7 @@ import Contact from './Components/Contact/Contact';
 import Footer from './Components/Footer/Footer';
 
 function App() {
-  // scroll to about section
-  const scrollToAbout = () => {
-    console.log('scrolling to about');
-    console.log(document.getElementById('about'));
-    document.getElementById('about').scrollIntoView({behavior: 'smooth'});
-  }
-  // useEffect(() => {
-  //   scrollToAbout();
-  // }, []);
-  // scrollToAbout();
-  
+
   return (
     <div className="App">
       <NavBar/>
