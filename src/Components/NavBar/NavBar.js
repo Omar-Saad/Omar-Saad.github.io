@@ -31,7 +31,7 @@ function NavBar() {
       <li className="nav-item"onClick={() => scrollTo('projects')}>
         <a className="nav-link" href="#projects">Projects</a>
       </li>
-      <li className="nav-item"onClick={() => scrollTo('Contact')}>
+      <li className="nav-item"onClick={() => scrollTo('contact')}>
         <a className="nav-link" href="#contact">Contact</a>
       </li>
       <li className="nav-item">
