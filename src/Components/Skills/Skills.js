@@ -17,7 +17,7 @@ function Skills() {
                     <div className="card">
                         <div className="card-body">
                             <h5 className="card-title">Programming Languages</h5>
-                            <h6 className="card-subtitle mb-2 text-muted">C, Java, Python, JavaScript, Dart, PHP</h6>
+                            <h6 className="card-subtitle mb-2 text-muted">C, C#, Java, Python, JavaScript, Dart, PHP</h6>
 
                         </div>
                     </div>
@@ -27,7 +27,7 @@ function Skills() {
                     <div className="card">
                         <div className="card-body">
                             <h5 className="card-title">Frontend</h5>
-                            <h6 className="card-subtitle mb-2 text-muted">HTML, CSS, JavaScript, React.js, Bootstrap</h6>
+                            <h6 className="card-subtitle mb-2 text-muted">HTML, CSS, JavaScript, Angular, React.js, Bootstrap</h6>
 
                         </div>
                     </div>
@@ -37,7 +37,7 @@ function Skills() {
                         <div className="card-body">
                             <h5 className="card-title">Backend</h5>
 
-                            <h6 className="card-subtitle mb-2 text-muted">Node.js, Express.js, MySQL, PostgreSQL, PHP</h6>
+                            <h6 className="card-subtitle mb-2 text-muted">.NET, Node.js, Express.js, MySQL, PostgreSQL, PHP</h6>
                         </div>
                     </div>
                 </div>
@@ -58,10 +58,9 @@ function Skills() {
                         <div className="card-body">
                             <h5 className="card-title">Machine Learning</h5>
 
-                            <h6 className="card-subtitle mb-2 text-muted">Python, Tensorflow, Keras, OpenCV</h6>
+                            <h6 className="card-subtitle mb-2 text-muted">Python, Tensorflow, OpenCV</h6>
                         </div>
                     </div>
-                {/* </div> */}
                 </div>
             </div>
         </div>
